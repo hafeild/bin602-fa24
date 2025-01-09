@@ -24,4 +24,4 @@ Extract the two primary tables from the root directory:
         data/breast-cancer-relapse-geo/GSE2034_genes.tsv
 
 
-This data is preprocessed in <notebooks/breast-cancer-geo-cleaning.ipynb>.
+This data is preprocessed in the [breast-cancer-geo-cleaning](notebooks/breast-cancer-geo-cleaning.ipynb) notebook.
